@@ -2,7 +2,10 @@
 
 This project features a cutting-edge line-following robot powered by HuskyLens and Smorphi technologies. The robot is designed to detect colored tags and perform corresponding maneuvers with high precision and reliability.
 
-![Robot Image](path/to/robot-image.jpg)
+![Robot Image](
+https://github.com/user-attachments/assets/3255ec22-ee8a-4995-b4d2-8ad2d00e9feb
+
+)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
