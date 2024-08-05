@@ -47,6 +47,9 @@ The Singapore Roboroarz 2024 Line Follower Robot utilizes a HuskyLens vision sen
    - Smorphi
    - SoftwareSerial
 
+https://github.com/user-attachments/assets/72f20679-041d-4ffe-a7cf-b168f209a9d2
+
+
 3. Open the `line_follower.ino` file in the Arduino IDE and upload it to your microcontroller.
 
 ## Usage
