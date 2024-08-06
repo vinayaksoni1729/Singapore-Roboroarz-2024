@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/3255ec22-ee8a-4995-b4d2-8ad2d00e9feb
 
 ## Project Overview
 The Singapore Roboroarz 2024 Line Follower Robot utilizes a HuskyLens vision sensor and Smorphi modules to navigate a track by detecting color tags. Depending on the detected color, the robot executes specific commands such as turning left, right, or making a U-turn. The project demonstrates advanced integration of sensor data processing and motor control for autonomous navigation.
+
 https://github.com/user-attachments/assets/22dcfa16-bd1f-4482-98b0-e09ea3e68597
 
 ## Hardware Requirements
